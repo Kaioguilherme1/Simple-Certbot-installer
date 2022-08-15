@@ -1,9 +1,29 @@
-# script name
+<h1 align="center"> Simple-Certbot-installer </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65198889/184714934-57e5036b-8f29-4daf-9dd2-a426a25df1e2.png" />
+</p>
 
-  Image of the Script if you have
 
-![Badge in Development](http://img.shields.io/static/v1?label=STATUS&message=EM%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-Insert the badges here, to create them just access [shields](https://shields.io/)
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DEVELOPMENT&color=GREEN&style=flat-square"/>
+  <img src="https://img.shields.io/github/commit-activity/m/kaioguilherme1/Simple-Certbot-installer?style=flat-square"/>
+  <img src="https://img.shields.io/github/last-commit/kaioguilherme1/Simple-Certbot-installer?style=flat-square"/>
+  <img src="https://img.shields.io/github/license/kaioGuilherme1/Simple-Certbot-installer?style=flat-square"/>
+</p>
+
+---
+
+<h3 align="center"> supported systems </h3>
+
+<p align="center"> 
+  <a href="https://www.docker.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
+  <a href="https://www.debian.org/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></a>
+  <a href="https://ubuntu.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a>
+  <a href="https://wordpress.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a> 
+  <a href="https://www.apache.org/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"></a>
+  <a href="https://www.nginx.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a>
+</p>
+  
 ---
 
   A paragraph of the project description goes here
@@ -21,29 +41,32 @@ Insert the badges here, to create them just access [shields](https://shields.io/
 
 ## 📄 Dependencies
 
-  Lista as dependencias
-
 * Wget
-* python3
   
 ## 🔧Installation
 
-Brief explanation of how to perform the installation.
+The following are the ways of executing the script for each distribution:
+
+### docker container
 
 ```
-apt install project
+dsadsad
+```
+### Debian, Ubuntu, Mint, etc...
+
+```
+
 ```
 
 ### 📁 Project access
 
-Introduce ways to download your project.
 
-[download script](https://github.com/Kaioguilherme1/Modelos_e_padroes/archive/refs/heads/main.zip)
+[download script](https://github.com/Kaioguilherme1/Simple-Certbot-installer/archive/refs/heads/main.zip)
 
 #### Download via terminal
 
 ```
-git clone https://github.com/Kaioguilherme1/Modelos_e_padroes.git
+git clone https://github.com/Kaioguilherme1/Simple-Certbot-installer.git
 ```
 
 ## ⚙️ Usage
