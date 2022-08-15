@@ -55,7 +55,7 @@ dsadsad
 ### Debian, Ubuntu, Mint, etc...
 
 ```
-
+sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ;sudo sh ssl_debian_install.sh
 ```
 
 ### 📁 Project access
