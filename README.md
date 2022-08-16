@@ -26,7 +26,7 @@
   
 ---
 
-  A paragraph of the project description goes here
+  This small script has the function of facilitating the installation and issuance of ssl certificates, I aim to make it easier for all platforms, but at the moment it supports docker containers and Debian-based systems.
 
 ## Index
 
@@ -50,7 +50,8 @@ The following are the ways of executing the script for each distribution:
 ### docker container
 
 ```
-dsadsad
+sudo docker exec -it <container name or id> bash 
+curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ; sh ssl_debian_install.sh
 ```
 ### Debian, Ubuntu, Mint, etc...
 
@@ -75,21 +76,20 @@ Description with images and or command showing how to use your application.
 
 ## 📦 Development
 
-present list of bugs found in development.
-
+Currently development is in the initial phase supporting only debian based systems and docker containers.
 ## 📌 Version
 
-Display the current software version
+V 1.0
 
 ## ✒️ Authors
 
 Mention all those who helped lift the project from its inception
 
-* **One developer** - *Initial Work* - [onedeveloper](https://github.com/linkParaProfile)
-* **So-and-so** - *Documentation* - [so-and-so](https://github.com/linkParaPerfil)
+* **developer** - *Initial Work* - [Kaio Guilherme](https://github.com/Kaioguilherme1)
+
 
 *
 
 ## 📑 License
 
-This project is under license (your license) - see the file [LICENSE.md](https://github.com/user/project/license) for details.
+This project is under license (MIT) - see the file [LICENSE.md](https://github.com/Kaioguilherme1/Simple-Certbot-installer/blob/main/LICENSE) for details.
