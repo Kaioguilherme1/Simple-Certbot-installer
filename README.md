@@ -1,7 +1,8 @@
 <h1 align="center"> Simple-Certbot-installer </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65198889/184714934-57e5036b-8f29-4daf-9dd2-a426a25df1e2.png" />
+  <img src="https://user-images.githubusercontent.com/65198889/191982434-39e28496-4cfb-4452-a2f2-8db644d1b3a3.png" />
 </p>
+
 
 
 <p align="center">
@@ -21,7 +22,8 @@
   <a href="https://ubuntu.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a>
   <a href="https://wordpress.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a> 
   <a href="https://www.apache.org/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"></a>
-  <a href="https://www.nginx.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a>
+  <a href="https://www.nginx.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a>![v1 02](https://user-images.githubusercontent.com/65198889/191982391-2653f240-178c-45b4-a5f4-d63b034caac4.png)
+
 </p>
   
 ---
