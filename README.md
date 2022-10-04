@@ -81,7 +81,7 @@ Description with images and or command showing how to use your application.
 Currently development is in the initial phase supporting only debian based systems and docker containers.
 ## 📌 Version
 
-V 1.0
+V 1.02
 
 ## ✒️ Authors
 
