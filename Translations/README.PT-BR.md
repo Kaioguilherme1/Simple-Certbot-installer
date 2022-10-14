@@ -1,4 +1,4 @@
-<h1 align="center"> Simple-Certbot-installer </h1>
+<h1 align="center"> Instalador-Certbot-Simples </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65198889/191982434-39e28496-4cfb-4452-a2f2-8db644d1b3a3.png" />
 </p>
@@ -9,12 +9,12 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DEVELOPMENT&color=GREEN&style=flat-square"/>
   <img src="https://img.shields.io/github/commit-activity/m/kaioguilherme1/Simple-Certbot-installer?style=flat-square"/>
   <img src="https://img.shields.io/github/last-commit/kaioguilherme1/Simple-Certbot-installer?style=flat-square"/>
-  <img src="https://img.shields.io/github/license/kaioGuilherme1/Simple-Certbot-installer?style=flat-square"/>
+  <img src="https://img.shields.io/github/Licenca/kaioGuilherme1/Simple-Certbot-installer?style=flat-square"/>
 </p>
 
 ---
 
-<h3 align="center"> supported systems </h3>
+<h3 align="center"> Sistemas Suportados </h3>
 
 <p align="center"> 
   <a href="https://www.docker.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
@@ -28,28 +28,31 @@
   
 ---
 
-  This small script has the function of facilitating the installation and issuance of ssl certificates, I aim to make it easier for all platforms, but at the moment it supports docker containers and Debian-based systems.
+  Esse pequeno script tem a função de facilitar a instalação e emissão de certificados SSL, meu foco é facilitar para todas as 
+  plataformas, mas até o momento suporta containers Docker e sistemas baseados em Debian.
 
-## Index
+  Leia em [Inglês](https://github.com/Kaioguilherme1/Simple-Certbot-installer)
 
-* [Title](#script-name)
-* [Index](#Index)
-* [📄Dependencies](#Dependencies)
-* [🔧Installation](#Installation)
-* [⚙️Usage](#use)
-* [📌Version](#Version)
-* [✒️Authors](#Authors)
-* [📑License](#License)
+## Indice
 
-## 📄 Dependencies
+* [Título](#script-name)
+* [Índice](#Indice)
+* [📄Dependências](#Dependencias)
+* [🔧Instalação](#Instalacao)
+* [⚙️Uso](#Uso)
+* [📌Versões](#Versoes)
+* [✒️Autores](#Autores)
+* [📑Licença](#Licenca)
+
+## 📄 Dependências
 
 * Wget
   
-## 🔧Installation
+## 🔧Instalação
 
-The following are the ways of executing the script for each distribution:
+A seguir serao mostradas as formas de executar o script para cada distribuiçoes
 
-### docker container
+### Container Docker
 
 ```
 sudo docker exec -it <container name or id> bash 
@@ -67,36 +70,37 @@ sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-i
 sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_CentOs8_install.sh ;sudo sh ssl_debian_install.sh
 ```
 
-### 📁 Project access
+### 📁 Acesso ao Projeto 
 
 
 [download script](https://github.com/Kaioguilherme1/Simple-Certbot-installer/archive/refs/heads/main.zip)
 
-#### Download via terminal
+#### Baixar pelo terminal
 
 ```
 git clone https://github.com/Kaioguilherme1/Simple-Certbot-installer.git
 ```
 
-## ⚙️ Usage
+## ⚙️ Uso
 
 
-## 📦 Development
+## 📦 Desenvolvimento 
 
-Currently development is in the initial phase supporting only debian based systems and docker containers.
-## 📌 Version
+Atualmente em desenvolvimento em estado inicial suportando apenas sistemas baseados em Debian e containers Docker.
+
+## 📌 Versao
 
 V 1.02
 
-## ✒️ Authors
+## ✒️ Autores
 
-Mention all those who helped lift the project from its inception
+Mencoes dadas a todos que participaram e ajudaram no projeto desde o início
 
 * **developer** - *Initial Work* - [Kaio Guilherme](https://github.com/Kaioguilherme1)
-
+* **Translator_PT-BR** - *Colaborator* - [Angelo Ferro](https://github.com/Angelox99)
 
 *
 
-## 📑 License
+## 📑 Licença
 
-This project is under license (MIT) - see the file [LICENSE.md](https://github.com/Kaioguilherme1/Simple-Certbot-installer/blob/main/LICENSE) for details.
+Esse projeto esta sob a licença(MIT) - veja o arquivo [Licenca.md](https://github.com/Kaioguilherme1/Simple-Certbot-installer/blob/main/Licenca) para mais detalhes.
