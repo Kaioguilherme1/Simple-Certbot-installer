@@ -29,6 +29,8 @@
 ---
 
   This small script has the function of facilitating the installation and issuance of ssl certificates, I aim to make it easier for all platforms, but at the moment it supports docker containers and Debian-based systems.
+  
+  Read in [Portuguese_br](https://github.com/Kaioguilherme1/Simple-Certbot-installer/blob/main/Translations/README.PT-BR.md)
 
 ## Index
 
