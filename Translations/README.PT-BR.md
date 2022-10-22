@@ -3,8 +3,6 @@
   <img src="https://user-images.githubusercontent.com/65198889/191982434-39e28496-4cfb-4452-a2f2-8db644d1b3a3.png" />
 </p>
 
-
-
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DEVELOPMENT&color=GREEN&style=flat-square"/>
   <img src="https://img.shields.io/github/commit-activity/m/kaioguilherme1/Simple-Certbot-installer?style=flat-square"/>
@@ -16,11 +14,11 @@
 
 <h3 align="center"> Sistemas Suportados </h3>
 
-<p align="center"> 
+<p align="center">
   <a href="https://www.docker.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
   <a href="https://www.debian.org/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></a>
   <a href="https://ubuntu.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a>
-  <a href="https://wordpress.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a> 
+  <a href="https://wordpress.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
   <a href="https://www.apache.org/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"></a>
   <a href="https://www.nginx.com/" target= "_blank"><img align="center" alt="supported-systems-certbot-install" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a>
 
@@ -28,7 +26,7 @@
   
 ---
 
-  Esse pequeno script tem a função de facilitar a instalação e emissão de certificados SSL, meu foco é facilitar para todas as 
+  Esse pequeno script tem a função de facilitar a instalação e emissão de certificados SSL, meu foco é facilitar para todas as
   plataformas, mas até o momento suporta containers Docker e sistemas baseados em Debian.
 
   Leia em [Inglês](https://github.com/Kaioguilherme1/Simple-Certbot-installer)
@@ -56,22 +54,22 @@ A seguir serao mostradas as formas de executar o script para cada distribuiçoes
 
 ```
 sudo docker exec -it <container name or id> bash 
-curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ; sh ssl_debian_install.sh
+curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/Portuguese-BR/ssl_debian_PT-BR_install.sh ; sh ssl_debian_PT-BR_install.sh
 ```
-### Debian, Ubuntu, Mint, etc...
+
+### Debian, Ubuntu, Mint, etc
 
 ```
-sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ;sudo sh ssl_debian_install.sh
+sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/Portuguese-BR/ssl_debian_PT-BR_install.sh ; sh ssl_debian_PT-BR_install.sh
 ```
 
 ### CentOs 8
 
 ```
-sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_CentOs8_install.sh ;sudo sh ssl_debian_install.sh
+sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/Portuguese-BR/ssl_CentOs8_PT-BR_install.sh ;sh ssl_CentOs8_PT-BR_install.sh
 ```
 
-### 📁 Acesso ao Projeto 
-
+### 📁 Acesso ao Projeto
 
 [download script](https://github.com/Kaioguilherme1/Simple-Certbot-installer/archive/refs/heads/main.zip)
 
@@ -83,8 +81,7 @@ git clone https://github.com/Kaioguilherme1/Simple-Certbot-installer.git
 
 ## ⚙️ Uso
 
-
-## 📦 Desenvolvimento 
+## 📦 Desenvolvimento
 
 Atualmente em desenvolvimento em estado inicial suportando apenas sistemas baseados em Debian e containers Docker.
 

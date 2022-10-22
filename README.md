@@ -55,18 +55,18 @@ The following are the ways of executing the script for each distribution:
 
 ```
 sudo docker exec -it <container name or id> bash 
-curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ; sh ssl_debian_install.sh
+curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/English/ssl_debian_install.sh ; sh ssl_debian_install.sh
 ```
 ### Debian, Ubuntu, Mint, etc...
 
 ```
-sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_debian_install.sh ;sudo sh ssl_debian_install.sh
+sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/English/ssl_debian_install.sh ;sudo sh ssl_debian_install.sh
 ```
 
 ### CentOs 8
 
 ```
-sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/ssl_CentOs8_install.sh ;sudo sh ssl_debian_install.sh
+sudo curl -LJO https://raw.githubusercontent.com/Kaioguilherme1/Simple-Certbot-installer/main/Versions/English/ssl_CentOs8_install.sh ;sudo sh ssl_CentOs8_install.sh
 ```
 
 ### 📁 Project access
